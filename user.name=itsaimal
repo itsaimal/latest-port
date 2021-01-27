@@ -1,0 +1,9 @@
+file:C:/Users/Notebook/.gitconfig	user.name=Aimal khan
+file:C:/Users/Notebook/.gitconfig	user.email=itsaimalyousafzai@gmail.com
+file:C:/Users/Notebook/.gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Users/Notebook/.gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Users/Notebook/.gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Users/Notebook/.gitconfig	filter.lfs.required=true
+file:C:/Users/Notebook/.gitconfig	core.editor=code --wait
+file:C:/Users/Notebook/.gitconfig	core.autocrlf=true
+file:C:/Users/Notebook/.gitconfig	http.sslbackend=openssl
